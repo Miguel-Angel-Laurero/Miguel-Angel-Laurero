@@ -7,6 +7,7 @@ Soy desarrollador web apasionado por crear experiencias digitales intuitivas y e
 ### Frontend
 - HTML5, CSS3, JavaScript (ES6+)
 - Angular
+- Java
 
 ### Backend
 - PHP, MongoDB
@@ -15,19 +16,13 @@ Soy desarrollador web apasionado por crear experiencias digitales intuitivas y e
 ### Otras herramientas
 - Git & GitHub
 - Trello
-- VS Code, Postman, 
+- VS Code, Postman
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-- **[Nombre del Proyecto 1](link-del-proyecto)**  
-  Breve descripción del proyecto, tecnologías usadas y funcionalidades principales.
-
-- **[Nombre del Proyecto 2](link-del-proyecto)**  
-  Breve descripción del proyecto, tecnologías usadas y funcionalidades principales.
-
-- **[Nombre del Proyecto 3](link-del-proyecto)**  
+- **[Practica-Tennis-Fantasy](link-del-proyecto)**  
   Breve descripción del proyecto, tecnologías usadas y funcionalidades principales.
 
 ---
