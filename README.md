@@ -5,7 +5,7 @@ Soy desarrollador web apasionado por crear experiencias digitales intuitivas y e
 ## 💻 Tecnologías y Herramientas
 
 ### Frontend
-- HTML5, CSS3, JavaScript (ES6+)
+- HTML5, CSS, JavaScript
 - Angular
 - Java
 
@@ -22,7 +22,7 @@ Soy desarrollador web apasionado por crear experiencias digitales intuitivas y e
 
 ## 🚀 Proyectos Destacados
 
-- **[Practica-Tennis-Fantasy](link-del-proyecto)**  
+- **[Practica-Tennis-Fantasy](https://github.com/Miguel-Angel-Laurero/Tennis-Fantasy)**  
   Breve descripción del proyecto, tecnologías usadas y funcionalidades principales.
 
 ---
