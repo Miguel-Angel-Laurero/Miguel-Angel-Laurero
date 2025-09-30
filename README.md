@@ -34,7 +34,7 @@ Soy desarrollador web apasionado por crear experiencias digitales intuitivas y e
 
 ## 📈 Estadísticas de GitHub
 
-![Tu Nombre GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Tu Nombre GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miguel-Angel-Laurero&show_icons=true&theme=radical)
 
 ---
 
