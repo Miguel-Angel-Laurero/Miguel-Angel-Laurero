@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Miguel Angel Laurero Zamora
 
-<!--
-**Miguel-Angel-Laurero/Miguel-Angel-Laurero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web apasionado por crear experiencias digitales intuitivas y eficientes. Me especializo en el desarrollo **frontend** y **backend**, con habilidades para construir aplicaciones completas y escalables.  
 
-Here are some ideas to get you started:
+## 💻 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- Angular
+
+### Backend
+- PHP, MongoDB
+- Bases de datos: MySQL
+
+### Otras herramientas
+- Git & GitHub
+- Trello
+- VS Code, Postman, 
+
+---
+
+## 🚀 Proyectos Destacados
+
+- **[Nombre del Proyecto 1](link-del-proyecto)**  
+  Breve descripción del proyecto, tecnologías usadas y funcionalidades principales.
+
+- **[Nombre del Proyecto 2](link-del-proyecto)**  
+  Breve descripción del proyecto, tecnologías usadas y funcionalidades principales.
+
+- **[Nombre del Proyecto 3](link-del-proyecto)**  
+  Breve descripción del proyecto, tecnologías usadas y funcionalidades principales.
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Tu Nombre GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+---
+
+## 🌱 Actualmente aprendiendo
+- JavaScript
+- PHP
+- Angular
