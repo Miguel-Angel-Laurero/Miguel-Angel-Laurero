@@ -6,12 +6,12 @@ Soy desarrollador web apasionado por crear experiencias digitales intuitivas y e
 
 ### Frontend
 - HTML5, CSS, JavaScript
-- Angular
+- Vue.js
 - Java
 
 ### Backend
-- PHP, MongoDB
-- Bases de datos: MySQL
+- PHP
+- Bases de datos: MySQL, MongoDB
 
 ### Otras herramientas
 - Git & GitHub
